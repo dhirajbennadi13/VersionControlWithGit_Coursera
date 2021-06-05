@@ -1,2 +1,9 @@
 This File1.txt should be commited to the repository and a unique tag should be added to it.
 Add Tag v1.0
+
+In the next release expect to add features.
+1. Tag the version as v1.1
+2. Include the developers name
+
+Developer: flashtechlearning
+
