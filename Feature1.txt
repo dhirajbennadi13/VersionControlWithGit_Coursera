@@ -1,3 +1,5 @@
 This file included the feature list to be implemented.
 
 1. Create a Detached head
+
+3. The Point 2 is missing
