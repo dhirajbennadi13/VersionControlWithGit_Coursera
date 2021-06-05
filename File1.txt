@@ -1,1 +1,2 @@
 This File1.txt should be commited to the repository and a unique tag should be added to it.
+Add Tag v1.0
