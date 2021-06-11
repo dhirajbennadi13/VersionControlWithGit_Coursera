@@ -12,3 +12,5 @@ For the next version please provide the features list.
 Waiting for the Feature List.
 
 Implement Rebase Strategy without inducing merge conflict.
+
+Implement Squash merge to create a single commit
