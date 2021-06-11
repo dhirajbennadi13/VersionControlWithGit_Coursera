@@ -10,3 +10,5 @@ Developer: flashtechlearning
 For the next version please provide the features list.
 
 Waiting for the Feature List.
+
+Implement Rebase Strategy.
