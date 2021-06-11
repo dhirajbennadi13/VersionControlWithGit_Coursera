@@ -12,3 +12,5 @@ For the next version please provide the features list.
 Waiting for the Feature List.
 
 Implement Rebase Strategy with merge conflict.
+
+Amending a commit
